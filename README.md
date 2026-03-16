@@ -5,6 +5,7 @@
 🚀 Tech Stack
 Languages: Java, C, Python, JavaScript
 Web: HTML, CSS, JS , React
+
 🛠️ Projects
 🔐 ZeroBite - A Idea regarding the transfer of waste food from Restaurants and Events to the required places like NGO , government organization,
 🧩 Voice Detection System as a Group Project 
