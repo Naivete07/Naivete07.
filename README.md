@@ -1,4 +1,4 @@
-👋 Hi, I'm Utkarsh Agarwal
+👋 Hi, I' Vivek Yadav
 🎓 BTech CSE (AI/ML) student | 💻 Web Developer | 🤖 AI-ML Explorer
 💡 Passionate about solving real-world problems through tech.
 
