@@ -163,13 +163,6 @@ Tic-Tac-Toe, Number Guessing, and Snake & Ladder — with clean game loops and i
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Naivete07/Naivete07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
 
 ## 📫 Summon Me
 
