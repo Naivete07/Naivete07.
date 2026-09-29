@@ -1,170 +1,193 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=Vivek%20Yadav&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=aka%20Naivete&descSize=22&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f0ff&height=260&section=header&text=VIVEK%20YADAV&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=%E3%80%8E%20N%20A%20I%20V%20E%20T%20E%20%E3%80%8F&descSize=20&descColor=00f0ff&descAlignY=62&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%F0%9F%8E%A8;Python+%26+C+Developer+%F0%9F%90%8D;B.Tech+CSE+(AI%2FML)+%40+ABES+Engineering+College;Building+real-world+products+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=700&height=40&lines=%3E+booting+player+profile...;%3E+class%3A+Frontend+Dev+%2F+AI-ML+Explorer;%3E+guild%3A+GDG+ABESEC+%7C+Production+Lead;%3E+stack%3A+Python+%C2%B7+C+%C2%B7+JavaScript+%C2%B7+ML;%3E+status%3A+ONLINE+%E2%80%94+accepting+quests+%E2%9A%A1" alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naivete07&label=PROFILE%20VIEWS&color=6e40c9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Naivete07?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=Naivete07&label=PLAYERS%20VISITED&color=ff00e5&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Naivete07?style=for-the-badge&logo=github&color=00f0ff&labelColor=0d1117)
 
 </div>
 
----
+<!--
+  🎌 WANT AN ANIME GIF? Add one right here, e.g.:
+  <div align="center"><img src="YOUR_GIF_LINK.gif" width="480" /></div>
+  Tip: upload your own GIF/art into this repo (e.g. /assets/banner.gif) and link it,
+  so it never breaks.
+-->
 
-## ⚔️ Character Sheet
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" />
 
-```yaml
-name:        Vivek Yadav  (Naivete)
-class:       Frontend Dev / AI-ML Adventurer
-guild:       GDG ABESEC — Production Lead
-academy:     ABES Engineering College, AKTU  (B.Tech CSE - AI/ML, 2024–28)
-base:        Ghaziabad, Uttar Pradesh, India
-level:       CGPA 8.4 / 10
-main_quest:  Land a startup internship & ship real products
-side_quest:  Writing scripts, directing stories 🎬
+## ⟦ 01 ⟧ PLAYER STATUS
+
+```
+╔════════════════════════════════════════════════╗
+║  [ SYSTEM ]  PLAYER STATUS WINDOW              ║
+╠════════════════════════════════════════════════╣
+║  NAME     : Vivek Yadav  "Naivete"             ║
+║  JOB      : Frontend Dev / AI-ML Explorer      ║
+║  TITLE    : Production Lead, GDG ABESEC        ║
+║  ACADEMY  : ABES Engineering College '28       ║
+║  LEVEL    : CGPA 8.4 / 10                      ║
+║  BASE     : Ghaziabad, India                   ║
+╠════════════════════════════════════════════════╣
+║  INT    AI / ML        [████████░░]            ║
+║  AGI    Frontend       [█████████░]            ║
+║  STR    Python & C     [█████████░]            ║
+║  VIT    DSA            [███████░░░]            ║
+║  SENSE  Cloud (OCI)    [██████░░░░]            ║
+╠════════════════════════════════════════════════╣
+║  STATUS   : ONLINE  |  QUEST: Internship       ║
+╚════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" />
 
-## 🧰 Skill Tree
+## ⟦ 02 ⟧ SKILL TREE
 
 <div align="center">
 
-**Languages & Frontend**
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,tensorflow,opencv,pandas,oracle&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+<br/><br/>
 
-**Cloud & Tools**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
-
-**AI & Data**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-
-**Core CS:** `OOP` · `Data Structures & Algorithms` · `DBMS` · `Operating Systems`
+![AI/ML](https://img.shields.io/badge/CLASS-AI%20%2F%20ML-ff00e5?style=for-the-badge&labelColor=0d1117)
+![Frontend](https://img.shields.io/badge/CLASS-FRONTEND-00f0ff?style=for-the-badge&labelColor=0d1117)
+![Cloud](https://img.shields.io/badge/CLASS-CLOUD%20(OCI)-8a5cff?style=for-the-badge&labelColor=0d1117)
+![CS](https://img.shields.io/badge/CORE-OOP%20%C2%B7%20DSA%20%C2%B7%20DBMS%20%C2%B7%20OS-00f0ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" />
 
-## 🚀 Featured Quests
+## ⟦ 03 ⟧ QUEST LOG
+
+> `[ SYSTEM ]` New quests detected. Rank shows how much I sweated over each one.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ Fraud Detection System
-*Flagship ML project*
-
-Machine-learning pipeline for detecting fraudulent transactions.
+### 🔴 `S-RANK` · Fraud Detection System
+Flagship ML build for spotting fraudulent transactions.
 
 `Python` `ML` `Data Analysis`
 
-[**View Repo →**](https://github.com/Naivete07/Naivete07)
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 AI Chatbot
-*Rule-based NLP*
+### 🔴 `S-RANK` · SpillTrace
+Satellite + AIS oil spill detection and vessel attribution. Built for Smart India Hackathon 2026.
 
-Intent recognition, context-aware queries, multi-turn flow with fallback handling for unrecognized inputs.
+`Python` `Satellite Data` `ML`
 
-`Python` `NLP` `Intent Recognition`
-
-[**View Repo →**](https://github.com/Naivete07/Naivete07)
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏨 Hotel Management System
-*Console app with OOP architecture*
+### 🟠 `A-RANK` · SEARIS
+Sea Intelligence & Recognition System. Built at the SGU × RocketRide AIthon 2026.
 
-Room booking, check-in/out, guest records and automated billing with file-based persistence.
+`Python` `AI`
 
-`Python` `C` `OOP` `File Handling`
-
-[**View Repo →**](https://github.com/Naivete07/Naivete07)
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🎮 Mini Games Collection
-*Algorithmic thinking, one game at a time*
+### 🟠 `A-RANK` · Pulse Band
+Wearable that tracks emotional / physiological state. Hackathon pitch in progress.
 
-Tic-Tac-Toe, Number Guessing, and Snake & Ladder — with clean game loops and input validation.
+`Hardware` `ML` `Sensors`
 
-`Python` `C` `Algorithms`
-
-[**View Repo →**](https://github.com/Naivete07/Naivete07)
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
 
 </td>
-  </tr>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟡 `B-RANK` · AI Chatbot
+Rule-based NLP bot with intent recognition, multi-turn flow and fallback handling.
+
+`Python` `NLP`
+
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🟡 `B-RANK` · Hotel Management System
+OOP-based booking, check-in/out, guest records and automated billing with file persistence.
+
+`Python` `C` `OOP`
+
+**[▶ Enter Dungeon](https://github.com/Naivete07/Naivete07)**
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" />
 
-## 🏆 Achievements Unlocked
+## ⟦ 04 ⟧ TITLES UNLOCKED
 
-| 🏅 | Badge | When |
-|---|---|---|
-| 🧠 | **AI Fluency Framework & Foundations** — Anthropic | Mar 2026 |
-| 💼 | **McKinsey Forward Program** — McKinsey & Company | Dec 2025 |
-| ☁️ | **OCI Foundations (AI & ML)** — Oracle | 2025 |
-| 📊 | **Data Analytics Job Simulation** — Deloitte / Forage | Oct 2025 |
-| 🤖 | **GenAI Powered Data Analytics** — Tata / Forage | Sep 2025 |
-| 🛠️ | **Google Workspace Tools Skill Badge** — Google | Oct 2025 |
-| 🚀 | **Mission UpSkill India Techfest Hackathon** — HCL × GUVI | Sep 2025 |
+| 🏅 | TITLE | DATE |
+|:-:|---|---|
+| 🧠 | **AI Fluency Framework & Foundations** · Anthropic | Mar 2026 |
+| 💼 | **McKinsey Forward Program** · McKinsey & Company | Dec 2025 |
+| ☁️ | **OCI Foundations (AI & ML)** · Oracle | 2025 |
+| 📊 | **Data Analytics Job Simulation** · Deloitte / Forage | Oct 2025 |
+| 🤖 | **GenAI Powered Data Analytics** · Tata / Forage | Sep 2025 |
+| 🛠️ | **Google Workspace Skill Badge** · Google | Oct 2025 |
+| 🚀 | **Mission UpSkill India Techfest Hackathon** · HCL × GUVI | Sep 2025 |
 
----
+## ⟦ 05 ⟧ GUILDS
 
-## 🌐 Guilds & Community
+- 🟦 **GDG ABESEC** · Leveled up from Production Team Member to **Production Lead**. Runs event logistics, workshops and production planning.
+- 🎬 **Picturesque Club** · Script Writer. Stories are my side quest.
 
-- 🟦 **GDG ABESEC** — rose from Production Team Member to **Production Lead**, running event logistics, workshops and production planning
-- ✍️ **Picturesque Club** — Script Writer, crafting stories for club productions
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" />
 
----
-
-## 📊 Stats
+## ⟦ 06 ⟧ BATTLE STATS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Naivete07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivete07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Naivete07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00e5&text_color=c9d1d9&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivete07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Naivete07&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=00d4ff&currStreakLabel=00d4ff" />
+<img src="https://streak-stats.demolab.com/?user=Naivete07&theme=radical&hide_border=true&background=0d1117&ring=ff00e5&fire=00f0ff&currStreakLabel=00f0ff" />
 
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naivete07&bg_color=0d1117&color=00f0ff&line=ff00e5&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Naivete07&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
 
 </div>
 
----
+## ⟦ 07 ⟧ CONTRIBUTION SNAKE
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Naivete07/Naivete07/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
 
-## 📫 Summon Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" />
+
+## ⟦ 08 ⟧ SUMMON ME
 
 <div align="center">
 
@@ -174,8 +197,11 @@ Tic-Tac-Toe, Number Guessing, and Snake & Ladder — with clean game loops and i
 
 <br/>
 
-*"Not all who wander are lost — some are just debugging."* 🌌
+```
+[ SYSTEM ] Player is online. Open to startup internships.
+           Send a message to begin a new quest.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6e40c9,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
